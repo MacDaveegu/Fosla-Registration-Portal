@@ -94,12 +94,6 @@ function AdminLogin() {
             {loading ? "Logging in..." : "Login"}
           </button>
         </form>
-
-        <p className="demo-info">
-          Demo Credentials:<br />
-          Email: admin@fosla.com<br />
-          Password: admin123
-        </p>
       </div>
     </div>
   );
